@@ -1,0 +1,9 @@
+Bimage is a private app to capture and view photos on macOS. Photos are encrypted as they're captured and decrypted only inside the app where you view them, so there's never a readable copy on disk for Spotlight, backups, other software, or people using your computer to find.
+
+iOS is capture-only by design: the private key never leaves your Mac, so iPhone and iPad can capture new photos but can never view them.
+
+Rotate, crop, and single-tap enhance from inside the viewer; a .orig.bvf sidecar preserves the original so destructive edits are revertible. Browse by date and filter by tag. Export selection. Idle auto-lock.
+
+There is no account, no server, no backend. No analytics, no advertising identifier, no crash reporting. Bimage makes no network calls of its own.
+
+Open-source, no lock-in: every photo is a file named by date, decryptable from the command line with bvf-cli (Homebrew installable); decrypted contents are standard image files. Full docs and source on GitHub.
