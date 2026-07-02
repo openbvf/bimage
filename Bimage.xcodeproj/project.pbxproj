@@ -530,8 +530,8 @@
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/openbvf/BvfAppKit";
 			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 0.1.1;
+				kind = upToNextMinorVersion;
+				minimumVersion = 0.1.3;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
