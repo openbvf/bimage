@@ -6,7 +6,7 @@ Bimage is a private app to capture and view photos on macOS. You can also captur
 
 iOS is capture-only by design. An iPhone or iPad can capture new photos but can never view them, because the private key isn't on iOS at all. If your phone is taken, nothing on it is viewable.
 
-*Screenshots are on the App Store listing (coming with release).*
+Screenshots are on the [App Store listing](https://apps.apple.com/us/app/bimage/id6758463446).
 
 ## Features
 
@@ -21,8 +21,10 @@ iOS is capture-only by design. An iPhone or iPad can capture new photos but can 
 
 ## Install
 
-- **macOS**: App Store (in progress), or [build from source](BUILDING.md). Requires macOS 15 or later.
-- **iOS**: App Store (in progress). Requires iOS 18 or later.
+<a href="https://apps.apple.com/us/app/bimage/id6758463446?itsct=apps_box_badge&amp;itscg=30200"><img alt="Download on the App Store" src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?releaseDate=1783468800" height="50"></a>
+
+- **macOS**: Requires macOS 15 or later. Or [build from source](BUILDING.md).
+- **iOS**: Requires iOS 18 or later.
 
 ## First run
 
