@@ -1,6 +1,6 @@
-<img src="bimage-macos.svg" alt="" width="128" align="right">
-
 # Bimage
+
+<img src="bimage-macos.svg" alt="" width="128" align="right">
 
 Bimage is a private app to capture and view photos on macOS. You can also capture from iPhone or iPad. Photos are encrypted as they're captured and decrypted only inside the app where you view them, so there's never a readable copy on disk for Spotlight, backups, other software, or people using your computer to find.
 
